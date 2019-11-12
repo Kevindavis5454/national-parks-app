@@ -1,10 +1,5 @@
 'use strict';
 
-const options = {
-    headers: new Headers(
-        { "X-Api-Key": "90fUQ2YOU83xwLOvHybdgvJUcJ10wIyzYAv54SgG"})
-};
-
 const searchURL = 'https://developer.nps.gov/api/v1/parks';
 
 function formatQueryParams(params) {
