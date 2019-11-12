@@ -26,3 +26,8 @@ button:hover {
 .hidden {
     display: none;
 }
+
+#state-option-one {
+    height: 200px;
+    width: 35px;
+}
